@@ -1,0 +1,7 @@
+mega_Yeet_&4(&2Rogue&4) 0
+Bob_&4(&2Healer&4) 0
+Bob_2_&4(&2Healer&4) 3
+fail_&4(&2Fighter&4) 0
+Dick_Cheyney_&4(&2Barbarian&4) 86
+Bug_Tester_&4(&2Healer&4) 0
+Yeet_Street_&4(&2Fighter&4) 21

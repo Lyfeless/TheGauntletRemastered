@@ -1,0 +1,7 @@
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\bin\Release\TheGauntletRemastered.exe.config
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\bin\Release\TheGauntletRemastered.exe
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\bin\Release\TheGauntletRemastered.pdb
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\obj\Release\TheGauntletRemastered.csproj.CoreCompileInputs.cache
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\obj\Release\TheGauntletRemastered.exe
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\obj\Release\TheGauntletRemastered.pdb
+E:\MyFolder\Files\Personal\TheGauntletRemastered\TheGauntletRemastered\obj\Release\TheGauntletRemastered.csprojAssemblyReference.cache
